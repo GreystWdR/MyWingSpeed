@@ -1,0 +1,3 @@
+MyWindSpeed app does not collect user data. GPS data are used in real time for computation, but are not stored even on the device. 
+The app does not require access to internet (see app android permission).
+Hope you’ll enjoy the app and fly safe !
